@@ -2,13 +2,13 @@
 
 # Created by Yiyun Qin
 # Created in May 2022
-# This is the math program, calculating the area of the triangle
+# This is the math program, calculating the volume of the cylinder
 
 import math
 
 
 def VolumeCylinder(radius, height):
-    # This function calculates the area of the triangle
+    # This function calculates the volume of the triangle
 
     # process
     volume = math.pi * pow(radius, 2) * height
